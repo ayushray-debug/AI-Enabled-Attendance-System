@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+venv/
+# Student reference photos are personal data; keep them local
+Images/*
+!Images/README.txt
